@@ -1,6 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B231&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Ol%C3%A1+Amigo%2C+Bem-vindo+ao+meu+perfil!;Hello+Friend%2C+Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=9D7BB2F7&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Olá+Amigo!;Welcome+to+my+Profile.)](https://git.io/typing-svg)
  ##  Pedro Cezar
 
 👩🏽‍💻 Graduando em Sistemas para Internet (Unicap)  
@@ -25,6 +25,8 @@
   <img align="center" alt="PedroCezardev-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     
  </div>
+ 
+<br>
  
 <p > </p>
 
