@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=9D7BB2F7&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Hello+World!;Welcome+to+my+profile.)](https://git.io/typing-svg
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=9D7BB2F7&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Olá+Amigo!;Welcome+to+my+Profile.)](https://git.io/typing-svg)
  ##  Pedro Cezar
 
 👩🏽‍💻 Graduando em Sistemas para Internet (Unicap)  
@@ -25,3 +25,16 @@
   <img align="center" alt="PedroCezardev-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     
  </div>
+ 
+<p > </p>
+
+ <div align="center">
+  <a href="https://www.instagram.com/_pedrodev0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	
+  <a href = "mailto:pcdasilvabeserra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pedro-cezar-77a444270/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
+</div>
+
+  </div>
+ 
