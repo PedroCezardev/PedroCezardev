@@ -39,3 +39,4 @@
 
   </div>
  
+![Snake animation](https://github.com/PedroCezardev/PedroCezardev/blob/output/github-contribution-grid-snake.svg)
