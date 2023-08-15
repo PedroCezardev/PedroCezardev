@@ -34,6 +34,7 @@ class Programmer
 </div> 
 <div style="display: inline_block" align="center">
 <br>
+<br>
 <img align="center" alt="PedroCezardev-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="PedroCezardev-PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />       
   <img align="center" alt="PedroCezardev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -43,8 +44,9 @@ class Programmer
   <img align="center" alt="PedroCezardev-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="PedroCezardev-NODEJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="PedroCezardev-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    
  </div>
+
+ <hr>
  
 <br>
  
