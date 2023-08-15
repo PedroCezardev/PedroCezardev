@@ -2,9 +2,17 @@
 
  ##  Pedro Cezar
 
+ ```css
+Desenvolvedor Full Stack Jr
+```
+
 👩🏽‍💻 Graduando em Sistemas para Internet (Unicap)  
 <div></div>
-<p ></ p>
+
+```ruby
+class Programmer
+  def initialize()
+```
 
 <div align="center">
   <a href="https://github.com/Pedro Cezardev">
