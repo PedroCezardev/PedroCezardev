@@ -13,6 +13,7 @@ Desenvolvedor Full Stack Jr
 class Programmer
   def initialize()
 ```
+<hr>
 
 <h2 align="left">Social:</h2>
  <div align="center">
@@ -21,8 +22,6 @@ class Programmer
   <a href="https://www.linkedin.com/in/pedro-cezar-77a444270/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
 </div>
-
-<hr>
 
 <div align="center"> 
   <img src="https://i.redd.it/5oqhtbdpsn2a1.gif" width="50%">
