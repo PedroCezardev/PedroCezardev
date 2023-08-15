@@ -14,7 +14,7 @@ class Programmer
   def initialize()
 ```
 <div align="center"> 
-  <img src="[[[https://i.redd.it/4w6jlp7qlkb91.gif](https://i.redd.it/5oqhtbdpsn2a1.gif)](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F5oqhtbdpsn2a1.gif)](https://preview.redd.it/5oqhtbdpsn2a1.gif?width=1920&format=mp4&s=19d2f7dd9f28e4a265e165c985d820e500c311e6)" width="50%">
+  <img src="[[[[https://i.redd.it/4w6jlp7qlkb91.gif](https://i.redd.it/5oqhtbdpsn2a1.gif)](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F5oqhtbdpsn2a1.gif)](https://preview.redd.it/5oqhtbdpsn2a1.gif?width=1920&format=mp4&s=19d2f7dd9f28e4a265e165c985d820e500c311e6)](https://i.redd.it/5oqhtbdpsn2a1.gif)" width="50%">
   </div>
 
 <div align="center">
