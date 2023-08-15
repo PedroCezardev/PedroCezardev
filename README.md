@@ -13,6 +13,14 @@ Desenvolvedor Full Stack Jr
 class Programmer
   def initialize()
 ```
+<h3 align="left">Social:</h3>
+ <div>
+  <a href="https://www.instagram.com/_pedrodev0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:pcdasilvabeserra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pedro-cezar-77a444270/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
+</div>
+
 <div align="center"> 
   <img src="https://preview.redd.it/5oqhtbdpsn2a1.gif?width=1920&format=mp4&s=19d2f7dd9f28e4a265e165c985d820e500c311e6" width="50%">
   </div>
