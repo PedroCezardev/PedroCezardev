@@ -21,6 +21,8 @@ class Programmer
  </div>
 </div>
 
+<hr>
+
 <div align="center"> 
   <img src="https://preview.redd.it/5oqhtbdpsn2a1.gif?width=1920&format=mp4&s=19d2f7dd9f28e4a265e165c985d820e500c311e6" width="50%">
   </div>
