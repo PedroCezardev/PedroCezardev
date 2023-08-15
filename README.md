@@ -13,6 +13,9 @@ Desenvolvedor Full Stack Jr
 class Programmer
   def initialize()
 ```
+<div align="center"> 
+  <img src="[https://i.redd.it/4w6jlp7qlkb91.gif](https://i.redd.it/5oqhtbdpsn2a1.gif)" width="50%">
+  </div>
 
 <div align="center">
   <a href="https://github.com/Pedro Cezardev">
