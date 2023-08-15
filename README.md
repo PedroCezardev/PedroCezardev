@@ -39,8 +39,9 @@ class Programmer
 <div style="display: inline_block" align="center">
 <br>
 <br>
- <h3 align="left">Languages and Tools:</h3>
-<img align="center" alt="PedroCezardev-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+ <h2 align="left">Languages and Tools:</h2>
+ 
+  <img align="center" alt="PedroCezardev-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="PedroCezardev-PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />       
   <img align="center" alt="PedroCezardev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="PedroCezardev-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
