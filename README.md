@@ -25,7 +25,7 @@ class Programmer
 <br>
 
 <div align="center"> 
-  <img src="https://i.redd.it/5oqhtbdpsn2a1.gif" width="50%">
+  <img src="https://i.redd.it/5oqhtbdpsn2a1.gif" width="80%">
   </div>
 <br>
 
