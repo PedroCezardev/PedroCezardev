@@ -6,7 +6,7 @@
 Desenvolvedor Full Stack Jr
 ```
 
-👩🏽‍💻 Graduando em Sistemas para Internet (Unicap)  
+<h3>👩🏽‍💻 Graduando em Sistemas para Internet (Unicap)<h3>  
 <div></div>
 
 ```ruby
