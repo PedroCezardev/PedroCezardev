@@ -22,11 +22,14 @@ class Programmer
   <a href="https://www.linkedin.com/in/pedro-cezar-77a444270/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
 </div>
+<br>
 
 <div align="center"> 
   <img src="https://i.redd.it/5oqhtbdpsn2a1.gif" width="50%">
   </div>
 <br>
+
+<hr>
 
 <div align="center">
   <a href="https://github.com/Pedro Cezardev">
