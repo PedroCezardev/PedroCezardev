@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B231&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Ol%C3%A1+amigo%2C+Bem-vindo+ao+meu+perfil!;Hello+Friend%2C+Welcome+to+my+profile!)](https://git.io/typing-svg)
 
- ##  Pedro Cezar
+ <h2>Pedro Cezar</h2>
 
  ```css
 Desenvolvedor Full Stack Jr
