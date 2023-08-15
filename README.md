@@ -13,6 +13,7 @@ Desenvolvedor Full Stack Jr
 class Programmer
   def initialize()
 ```
+
 <h2 align="left">Social:</h2>
  <div align="center">
   <a href="https://www.instagram.com/_pedrodev0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -24,7 +25,7 @@ class Programmer
 <hr>
 
 <div align="center"> 
-  <img src="https://preview.redd.it/5oqhtbdpsn2a1.gif?width=1920&format=mp4&s=19d2f7dd9f28e4a265e165c985d820e500c311e6" width="50%">
+  <img src="[https://preview.redd.it/5oqhtbdpsn2a1.gif?width=1920&format=mp4&s=19d2f7dd9f28e4a265e165c985d820e500c311e6](https://i.redd.it/5oqhtbdpsn2a1.gif)" width="50%">
   </div>
 
 <div align="center">
