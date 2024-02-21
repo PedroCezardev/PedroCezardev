@@ -25,7 +25,7 @@ class Programmer
 <br>
 
 <div align="center"> 
-  <img src=hacktime.gif width="70%">
+  <img src=hacktime.gif width="90%">
   </div>
 <br>
 
